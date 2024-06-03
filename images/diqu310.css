@@ -1,0 +1,123 @@
+a {
+    text-decoration: none;
+    text-align: center;
+}
+
+.list012 {
+    margin: auto;
+    display: flex;
+    text-align: center;
+    width: 100%;
+    height: 60px;
+    line-height: 55px;
+    align-items: center;
+    font-weight: bold;
+    font-size: 21px;
+    color: #FFFFFF;
+    background: url(./top.jpg)
+}
+
+.list0123 {
+    margin: auto;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.list0124 {
+    margin: auto;
+    display: flex;
+    width: 100%;
+    height: 24px;
+    align-items: center;
+    font-weight: bold;
+    padding-bottom: 0px;
+    font-size: 23px;
+    margin-top: 0px;
+    color: red;
+    background-position: bottom;
+    vertical-align: bottom;
+    text-align: center;
+}
+
+.list0125 {
+    margin: auto;
+    display: flex;
+    width: 100%;
+    height: 56px;
+    align-items: center;
+    font-weight: bold;
+    padding-bottom: 0px;
+    font-size: 20px;
+    margin-top: 5px;
+    color: red;
+    background-image: url(./sjk.jpg);
+    background-position: bottom;
+    vertical-align: bottom;
+    text-align: center;
+}
+
+.sjk01 {
+    margin-top: 6px;
+    max-width: 600px;
+    height: auto;
+    text-align: center;
+    background-color: #FFDF01;
+    color: black;
+    line-height: 25px;
+    font-size: 17px;
+    text-align: left;
+    padding-left: 6px;
+    font-weight: bold;
+}
+
+.imgtels {
+    width: auto;
+    height: 31px;
+    margin-top: 3px;
+}
+
+.tongjib {
+    text-align: center;
+}
+
+.tongjib a {
+    color: #FFF;
+}
+
+.xxf {
+    margin-top: 6px;
+    height: 60px;
+    line-height: 55px;
+    text-align: center;
+    background: #4E6EF2;
+    color: #FFF;
+    font-size: 23px;
+    z-index: 1;
+    position: fixed;
+    bottom: 41px;
+    width: 100%;
+    cursor: pointer;
+    border-radius: 5px;
+    word-wrap: break-word;
+    overflow: hidden;
+}
+
+.stsel {
+    margin-top: 2px;
+    max-width: 600px;
+    height: 45px;
+    text-align: center;
+    background-color: #363636;
+    line-height: 45px;
+}
+
+.stsel2 {
+    margin-left: 80px;
+    color: #FFF;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 100px;
+}
